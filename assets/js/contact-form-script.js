@@ -27,7 +27,7 @@
 
     $.ajax({
       type: "POST",
-      url: "assets/php/form-process.php",
+      url: "form-process.php",
       data:
         "name=" +
         name +
