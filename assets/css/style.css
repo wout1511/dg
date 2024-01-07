@@ -6235,8 +6235,8 @@ header.header-three .header-nav::before {
 }
 
 .contact-section.contact-page .contact-form {
-  padding: 70px 0;
-  margin-bottom: -170px;
+  padding: 40px 0;
+  margin-bottom: 100px;
   position: relative;
 }
 
@@ -6911,6 +6911,10 @@ header.header-three .header-nav::before {
 .project-details .project-content .content p {
   font-size: 15px;
   line-height: 2;
+}
+
+.services-fat {
+  font-weight: bold;
 }
 
 .project-details .project-content .details {
