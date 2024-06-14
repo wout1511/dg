@@ -93,7 +93,7 @@
       event.preventDefault();
 
       // Using EmailJS to send the form
-      emailjs.sendForm("service_yyaorwy", "template_vaktne3", this).then(
+      emailjs.sendForm("service_x8arttf", "template_mgeu35a", this).then(
         function () {
           formSuccess();
           submitMSG(true, "Message Submitted!");
